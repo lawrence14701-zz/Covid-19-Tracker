@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./App.module.css";
+import styles from "./app.module.css";
 import coronaImage from "./images/coronavirus.png";
 
 import { fetchData, fetchDailyData } from "./api";
